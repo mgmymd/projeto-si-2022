@@ -1,0 +1,14 @@
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.exe
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.deps.json
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.json
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.dev.json
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfo.cs
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Aulas de desenvolvimento de sistemas\ProjetoUmBanco\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.genruntimeconfig.cache
